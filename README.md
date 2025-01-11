@@ -1,7 +1,7 @@
 # useful-minecraft-index
 ## Table of Contents
 - [Hacked Clients](#Clients)
--   [Clients-1.8](#clients-1.8)
+-   [Clients-1.8](#Clients-1.8)
 -   [Clients-1.9+](#Clients-1.9+)
 -   [Clients-Bedrock](#Clients-Bedrock)
 -   [Clients-Old](#Clients-Old)
@@ -18,7 +18,7 @@ Clients marked with a ? are unverified.
 
 ### NOTE! CLIENTS ARE NOT TESTED AND MAY BE INFECTED
 
-## clients-1.8
+## Clients-1.8
 - VapeClient $
 - Vape Lite $
 - SkillClient
@@ -91,7 +91,7 @@ Clients marked with a ? are unverified.
 - oddFuture ?
 - UwuClient ?
 
-## clients-1.9+
+## Clients-1.9+
 - Meteor
 - bleachhack
 - rusherhack $
