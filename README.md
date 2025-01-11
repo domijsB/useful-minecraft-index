@@ -4,6 +4,7 @@
 -   [Clients-1.8](#Clients-1.8)
 -   [Clients-1.9+](#Clients-1.9+)
 -   [Clients-Bedrock](#Clients-Bedrock)
+-   [Clients-Multiversion](#Clients-Multiversion)
 -   [Clients-Old](#Clients-Old)
 - [Launchers and Clients](#Launchers)
 -   [Launchers](#Launchers)
@@ -18,7 +19,7 @@ Clients marked with a ? are unverified.
 
 ### NOTE! CLIENTS ARE NOT TESTED AND MAY BE INFECTED
 
-## Clients-1.8
+# Clients-1.8
 - VapeClient $
 - Vape Lite $
 - SkillClient
@@ -91,7 +92,7 @@ Clients marked with a ? are unverified.
 - oddFuture ?
 - UwuClient ?
 
-## Clients-1.9+
+# Clients-1.9+
 - Meteor
 - bleachhack
 - rusherhack $
@@ -218,7 +219,7 @@ Clients marked with a ? are unverified.
 - Nebula Client ?
 - PiClient ?
 
-## Clients-Bedrock
+# Clients-Bedrock
 - Horion
 - Nitr0
 - Prax
@@ -242,7 +243,7 @@ Clients marked with a ? are unverified.
 - Nitro
 - Demon Client
 
-## Clients-Multiversion
+# Clients-Multiversion
 - RiseClient $
 - LiquidBounce
 - Ares 
@@ -254,7 +255,7 @@ Clients marked with a ? are unverified.
 - Konas $
 - Sigma
 
-## Clients-old
+# Clients-old
 - Kiwi
 - alias
 - epsilon
