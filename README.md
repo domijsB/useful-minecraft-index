@@ -1,8 +1,8 @@
 # useful-minecraft-index
 ## Table of Contents
 - [Hacked Clients](#Clients)
--   [Clients-1.8](#Clients-1.8)
--   [Clients-1.9+](#Clients-1.9+)
+-   [Clients-1.8](#Clients-18)
+-   [Clients-1.9+](#Clients-19)
 -   [Clients-Bedrock](#Clients-Bedrock)
 -   [Clients-Multiversion](#Clients-Multiversion)
 -   [Clients-Old](#Clients-Old)
